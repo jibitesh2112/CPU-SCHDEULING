@@ -1,2 +1,2 @@
 # CPU-SCHDEULING
-SJF,SRTF,Preemptive Priority,RR
+SJF,SRTF,Preemptive Priority,RR,FCFS
